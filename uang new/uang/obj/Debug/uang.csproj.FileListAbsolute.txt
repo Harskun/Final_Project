@@ -1,0 +1,117 @@
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\obj\Debug\uang.csproj.AssemblyReference.cache
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\obj\Debug\uang.Form1.resources
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\obj\Debug\uang.Properties.Resources.resources
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\obj\Debug\uang.csproj.GenerateResource.cache
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\obj\Debug\uang.csproj.CoreCompileInputs.cache
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\uang.exe.config
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\uang.exe
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\uang.pdb
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\Newtonsoft.Json.dll
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\Newtonsoft.Json.xml
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\obj\Debug\uang.csproj.Up2Date
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\obj\Debug\uang.exe
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\obj\Debug\uang.pdb
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\obj\Debug\uang.exe.config
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\EPPlus.Interfaces.dll
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\EPPlus.System.Drawing.dll
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\SciChart.Charting.dll
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\SciChart.Core.dll
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\SciChart.Data.dll
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\SciChart.Drawing.dll
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\Syncfusion.Core.XForms.dll
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\Syncfusion.Licensing.dll
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\Syncfusion.SfChart.XForms.dll
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\System.Drawing.Common.dll
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\Xamarin.Forms.Core.dll
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\Xamarin.Forms.Platform.dll
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\Xamarin.Forms.Xaml.dll
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\SciChart.Charting.xml
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\SciChart.Core.xml
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\SciChart.Data.xml
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\SciChart.Drawing.xml
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\Syncfusion.Core.XForms.xml
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\Syncfusion.SfChart.XForms.xml
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\System.Drawing.Common.pdb
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\System.Drawing.Common.xml
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\Xamarin.Forms.Core.pdb
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\Xamarin.Forms.Core.xml
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\Xamarin.Forms.Xaml.pdb
+\\192.168.1.201\userdownload\1 nitip\pemprograman\uang\uang\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\uang.exe.config
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\uang.exe
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\uang.pdb
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\Newtonsoft.Json.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\SciChart.Charting.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\SciChart.Core.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\SciChart.Data.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\SciChart.Drawing.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\Syncfusion.SfChart.XForms.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\System.Drawing.Common.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\Newtonsoft.Json.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\SciChart.Charting.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\SciChart.Core.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\SciChart.Data.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\SciChart.Drawing.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\Syncfusion.SfChart.XForms.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\System.Drawing.Common.pdb
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\System.Drawing.Common.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\obj\Debug\uang.csproj.AssemblyReference.cache
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\obj\Debug\uang.exe.config
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\obj\Debug\uang.Form1.resources
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\obj\Debug\uang.Properties.Resources.resources
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\obj\Debug\uang.csproj.GenerateResource.cache
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\obj\Debug\uang.csproj.CoreCompileInputs.cache
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\obj\Debug\uang.csproj.Up2Date
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\obj\Debug\uang.exe
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang\uang\obj\Debug\uang.pdb
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\uang.exe.config
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\uang.exe
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\uang.pdb
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\Newtonsoft.Json.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\SciChart.Charting.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\SciChart.Core.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\SciChart.Data.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\SciChart.Drawing.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\Syncfusion.SfChart.XForms.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\System.Drawing.Common.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\Newtonsoft.Json.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\SciChart.Charting.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\SciChart.Core.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\SciChart.Data.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\SciChart.Drawing.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\Syncfusion.SfChart.XForms.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\System.Drawing.Common.pdb
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\System.Drawing.Common.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\obj\Debug\uang.csproj.AssemblyReference.cache
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\obj\Debug\uang.exe.config
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\obj\Debug\uang.Form1.resources
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\obj\Debug\uang.Properties.Resources.resources
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\obj\Debug\uang.csproj.GenerateResource.cache
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\obj\Debug\uang.csproj.CoreCompileInputs.cache
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\obj\Debug\uang.csproj.Up2Date
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\obj\Debug\uang.exe
+C:\Users\W 11\Documents\!TUGAS KULIAH\Teknik Pemograman\uang new\uang\obj\Debug\uang.pdb
